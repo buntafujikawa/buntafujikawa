@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=buntafujikawa&show_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buntafujikawa&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buntafujikawa&layout=compact&theme=dark&exclude_repo=laravel-exercise" />
 </a>
 
 <!--
